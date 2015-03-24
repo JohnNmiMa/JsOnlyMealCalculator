@@ -1,0 +1,12 @@
+Create diner class:
+  - name of diner
+  - name of dish
+  - cost of dish
+
+Create meal class:
+  - contains list of diners
+  - contains method to get meal total
+  - contain method to list the following for each diner:
+    - cost of their meal
+    - cost of tax and tip
+    - total cost of meal
